@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 ![dede-ugolini Status](https://github-readme-stats.vercel.app/api?username=dede-ugolini&show_icons=true)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede-ugolini)](https://github.com/dede-ugolini)
--->
+
