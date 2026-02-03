@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![Linux](./assets/linux.gif)
 <br></br>
+![Tux cute](./assets/tux-cute.gif)
+<br></br>
 ![dede-ugolini Status](https://github-readme-stats.vercel.app/api?username=dede-ugolini&show_icons=true)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede-ugolini)](https://github.com/dede-ugolini)
