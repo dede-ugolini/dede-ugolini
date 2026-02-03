@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dede-ugolini/dede-ugolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Hornet](./assets/hornet.gif)
+![Morty](./assets/mort.gif)
 -->
+![Linux](./assets/linux.gif)
+<br></br>
 ![dede-ugolini Status](https://github-readme-stats.vercel.app/api?username=dede-ugolini&show_icons=true)
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede-ugolini)](https://github.com/dede-ugolini)
-
