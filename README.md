@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede-ugolini)](https://github.com/dede-ugolini)
 -->
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%; background-color: black">
   <img src="./assets/linux.gif" alt="Linux" style="max-width:45%; height:200px">
   <img src="./assets/tux-cute.gif" alt="Cute Linux" style="max-width:45%; height:200px">
   <img src="./assets/tux-pc.gif" alt="Tux pc" style="max-width:45%; height:200px;">
