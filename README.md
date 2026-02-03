@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Hornet](./assets/hornet.gif)
 ![Morty](./assets/mort.gif)
--->
-![Linux](./assets/linux.gif)
-<br></br>
-![Tux cute](./assets/tux-cute.gif)
-<br></br>
+
 ![dede-ugolini Status](https://github-readme-stats.vercel.app/api?username=dede-ugolini&show_icons=true)
-<br></br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede-ugolini)](https://github.com/dede-ugolini)
+-->
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
+  <img src="./assets/linux.gif" alt="Linux" style="max-width:45%;">
+  <img src="./assets/tux-cute.gif" alt="Cute Linux" style="max-width:45%;">
+  <img src="./assets/super-tux.gif" alt="Super tux">
+  <img src="./assets/tux-pc.gif" alt="Tux pc">
+</div>
