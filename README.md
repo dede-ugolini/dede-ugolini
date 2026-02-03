@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
   <img src="./assets/linux.gif" alt="Linux" style="max-width:45%;">
   <img src="./assets/tux-cute.gif" alt="Cute Linux" style="max-width:45%;">
-  <img src="./assets/tux-pc.gif" alt="Tux pc" style="max-width:45%; max-height:45%;">
+  <img src="./assets/tux-pc.gif" alt="Tux pc" style="max-width:45%; height:200px;">
   <img src="./assets/super-tux.gif" alt="Super tux">
 </div>
+<img src="https://komarev.com/ghpvc/?username=dede-ugolini&color=5B19B2&label=Visitors" alt="Profile Views Counter">
