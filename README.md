@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 <div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
   <img src="./assets/linux.gif" alt="Linux" style="max-width:45%; height:200px">
   <img src="./assets/super-tux.gif" alt="Super tux" style="height:200px">
-  <img src="./assets/hollow_knight.gif" alt="Hollow Knight" style="height:200px">
 </div>
 <img src="https://komarev.com/ghpvc/?username=dede-ugolini&color=5B19B2&label=Visitors" alt="Profile Views Counter">
