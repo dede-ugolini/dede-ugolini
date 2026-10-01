@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 ![dede-ugolini Status](https://github-readme-stats.vercel.app/api?username=dede-ugolini&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede-ugolini)](https://github.com/dede-ugolini)
 -->
 <div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
   <img src="./assets/gopher-workout.gif" alt="Gopher" style="max-width:45%; height:200px">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dede-ugolini)](https://github.com/dede-ugolini)
