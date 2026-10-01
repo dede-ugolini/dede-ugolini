@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 -->
 <div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
   <img src="./assets/linux.gif" alt="Linux" style="max-width:45%; height:200px">
+  <img src="./assets/gopher-workout.gif" alt="Gopher" style="max-width:45%; height:200px">
 </div>
